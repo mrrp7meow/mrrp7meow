@@ -13,13 +13,6 @@ Welcome to my GitHub profile! I am a passionate and enthusiastic first-year Comp
 - 💡 **Hobbies:** Participating in hackathons, exploring open-source contributions, and building real-world applications.
 - 🚀 **Aspiring To:** Expand my expertise in full-stack development and participate in competitive programming.
 
----
-
-## 💼 Projects:
-Here are a few highlights of my projects. Check out my repositories for more!
-- **Portfolio Website:** A personal portfolio showcasing my projects, skills, and experience ([Repository Link](https://github.com/your-portfolio)).
-- **Weather App:** A Python-based weather application utilizing APIs for real-time updates ([Repository Link](https://github.com/weather-app)).
-- **Task Manager:** A to-do list web app with user authentication and CRUD functionality ([Repository Link](https://github.com/task-manager)).
 
 ---
 
